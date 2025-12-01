@@ -1,6 +1,5 @@
 # Advent of Code 2025
 
-Merry Christmas !
 This is a Java-based Advent of Code 2025 solution framework.
 
 ### Project Structure
