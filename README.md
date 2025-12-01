@@ -2,6 +2,8 @@
 
 This is a Java-based Advent of Code 2025 solution framework.
 
+Pull the fresh-start branch to get started!
+
 ### Project Structure
 
 - `src/main/java/io/github/maxBRT/Day/` - Contains day classes (DayOne through DayTwelve)
