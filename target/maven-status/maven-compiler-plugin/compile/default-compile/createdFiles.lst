@@ -1,11 +1,10 @@
 io/github/maxBRT/Day/DayTen.class
-io/github/maxBRT/Day/Point.class
 io/github/maxBRT/Day/DaySix.class
 io/github/maxBRT/Day/DayTwelve.class
-io/UnionFind/UnionFind.class
 io/github/maxBRT/Day/DayEight.class
 io/github/maxBRT/Day/DayFive.class
 io/github/maxBRT/Day/DayNine.class
+io/github/maxBRT/Utilities/Point.class
 io/github/maxBRT/Day/DayThree.class
 io/github/maxBRT/Day/Day.class
 io/github/maxBRT/JunctionBox/JunctionBox.class
