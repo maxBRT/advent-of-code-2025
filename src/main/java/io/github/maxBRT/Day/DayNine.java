@@ -14,6 +14,7 @@ public class DayNine extends Day {
     public DayNine() {
     }
 
+
     public String solvePartOne() {
         parseInput();
         for (int i = 0; i < points.size(); i++) {

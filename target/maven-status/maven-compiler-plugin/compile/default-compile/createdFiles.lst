@@ -1,5 +1,8 @@
 io/github/maxBRT/Day/DayTen.class
+io/github/maxBRT/Utilities/Edge.class
+io/github/maxBRT/Utilities/JunctionBox.class
 io/github/maxBRT/Day/DaySix.class
+io/github/maxBRT/Day/DayTen$Machine.class
 io/github/maxBRT/Day/DayTwelve.class
 io/github/maxBRT/Day/DayEight.class
 io/github/maxBRT/Day/DayFive.class
@@ -7,11 +10,9 @@ io/github/maxBRT/Day/DayNine.class
 io/github/maxBRT/Utilities/Point.class
 io/github/maxBRT/Day/DayThree.class
 io/github/maxBRT/Day/Day.class
-io/github/maxBRT/JunctionBox/JunctionBox.class
 io/github/maxBRT/App.class
 io/github/maxBRT/Day/DayEleven.class
 io/github/maxBRT/Day/DaySeven.class
-io/github/maxBRT/JunctionBox/Edge.class
 io/github/maxBRT/Day/DayOne.class
 io/github/maxBRT/Day/DayFour.class
 io/github/maxBRT/Day/DayTwo.class

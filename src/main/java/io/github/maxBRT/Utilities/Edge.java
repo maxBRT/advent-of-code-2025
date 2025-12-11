@@ -1,4 +1,4 @@
-package io.github.maxBRT.JunctionBox;
+package io.github.maxBRT.Utilities;
 
 public record Edge(int from, int to, long weight) {
 }

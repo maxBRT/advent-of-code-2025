@@ -4,8 +4,8 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.List;
 
-import io.github.maxBRT.JunctionBox.JunctionBox;
-import io.github.maxBRT.JunctionBox.Edge;
+import io.github.maxBRT.Utilities.Edge;
+import io.github.maxBRT.Utilities.JunctionBox;
 
 public class DayEight extends Day {
 

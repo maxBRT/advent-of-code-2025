@@ -1,4 +1,4 @@
-package io.github.maxBRT.JunctionBox;
+package io.github.maxBRT.Utilities;
 
 public class JunctionBox {
     final int x;
